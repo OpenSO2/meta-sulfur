@@ -1,0 +1,4 @@
+OPTIONS="-n -S 19200"
+DEVICES="/dev/ttyUSB0"
+USBAUTO="false"
+
